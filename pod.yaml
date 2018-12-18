@@ -3,3 +3,7 @@ kind: Pod
 metadata:
   label:
      app: jenkins
+
+spec:
+   - containers:
+     images: nginx
