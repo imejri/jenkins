@@ -9,3 +9,7 @@ spec:
      images: nginx
      ports:
       - containerPort: 80
+        portocol: TCP
+
+### Voici un commentaire 1
+### Voici un commentaire 2
