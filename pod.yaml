@@ -7,3 +7,5 @@ metadata:
 spec:
    - containers:
      images: nginx
+     ports:
+      - containerPort: 80
