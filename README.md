@@ -1,4 +1,4 @@
 # jenkins
 Vagrantfile to spinup a jenkins project
 You can use the vagrantfile by 
-vagrant up command
+run a virtual machine with vagrant up command 
